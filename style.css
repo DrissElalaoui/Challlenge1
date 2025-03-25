@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+}
+.section {
+    background-color: #FBE4D6;
+    padding: 50px 0;
+}
+.section .sectio {
+    background-color: #fff;
+    max-width: 500px;
+    margin: auto;
+    padding: 40px;
+    border-radius: 15px;
+}
+img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.section .sectio .p1 {
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.719);
+    margin: 20px 0 ;
+}
+.section .sectio .partie1 {
+    background-color: #FAF1E6;
+    padding: 15px 0;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.section .sectio .partie1 h3 {
+    color: rgb(131, 21, 21);
+    margin-left: 15px;
+}
+.section .sectio .partie1 ul {
+    margin-left: 40px;
+}
+.section .sectio .partie1 ul li {
+    font-size: 12px;
+}
+.section .sectio .partie1 .li1 {
+margin: 10px 0;
+}
+.section .sectio .partie1 .li2 {
+     margin-bottom: 10px;
+}
+.section .sectio h2 {
+    margin-bottom: 10px;
+    color: rgb(131, 21, 21);
+}
+.section .sectio ul li {
+    font-size: 12px;
+    margin-bottom: 8px;
+}
+.section .sectio .hr1,
+ .section .sectio .hr2 
+{
+     margin: 20px 0;
+}
+.section .sectio ol li {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.section .sectio .amet {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+
+.section .sectio .test {
+    display: flex;
+    margin: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #00000056;
+}
+.section .sectio .test h4 {
+    margin-right: 150px;
+    font-size: 14px;
+}
+.section .sectio .test p {
+    color: rgb(131, 21, 21);
+   font-weight: 700;
+
+}
